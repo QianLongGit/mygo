@@ -35,7 +35,7 @@ import (
 )
 
 // commit is the commit of Ghostty this package binds.
-const commit = "befcdfd2c3a1cb24d9ec886e93c95b2b5daa7028"
+const commit = "83fb95624b0439ee660c2679b43b38c8b63769cd"
 
 var targets = []struct {
 	goos, goarch, zig string
